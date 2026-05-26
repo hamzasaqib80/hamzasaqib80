@@ -32,10 +32,11 @@
 
 ### 🔥 Featured AI Work
 
+#### 🚦 [Autonomous Traffic AI - Edge Computing & CV Platform](https://github.com/hamzasaqib80/Autonomous-Traffic-AI)
+Developed an asynchronous, density-based traffic management system using **YOLOv8** and **SORT** tracking. Features a deterministic safety-validated signal engine and real-time telemetry streaming via **MQTT** and **InfluxDB**. Optimized for real-time inference and edge deployment.
+
 #### 🧠 [Baseer AI - Computer Vision Pipeline](https://github.com/hamzasaqib80/Baseer-AI)
 Engineered a specialized Computer Vision & Object Recognition Pipeline leveraging a **ResNet-18 (PyTorch)** architecture. Served the model for inference via **FastAPI** with a **Streamlit** visualization frontend. The entire pipeline is fully containerized with Docker and features automated Bandit security audits via CI/CD.
-
-*(More of my AI architecture projects and research will be published soon!)*
 
 ---
 
